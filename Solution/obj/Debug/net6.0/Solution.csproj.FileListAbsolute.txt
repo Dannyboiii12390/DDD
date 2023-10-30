@@ -1,0 +1,15 @@
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\bin\Debug\net6.0\Solution.exe
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\bin\Debug\net6.0\Solution.deps.json
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\bin\Debug\net6.0\Solution.dll
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\bin\Debug\net6.0\Solution.pdb
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.dll
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\refint\Solution.dll
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.pdb
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+C:\Users\Daniel Howe\Desktop\GitHub Repos\DDD-repo\Solution\Solution\obj\Debug\net6.0\ref\Solution.dll
